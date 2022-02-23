@@ -51,3 +51,5 @@ This guide will show you how to install Pandoc on a number of Unix variants incl
 ## The End
 
 You have successfully installed pandoc on a Unix machine! Now you can convert all the content you would like!
+
+{% include footer.md %}
