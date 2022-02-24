@@ -4,7 +4,7 @@ This guide will show you how to install Pandoc on a number of Unix variants incl
 
 ## Requirements
 
-- Logged into Unix machine
+- Logged into your Unix machine
 - Administrator Privileges in a Terminal
 
 ## General Steps 
