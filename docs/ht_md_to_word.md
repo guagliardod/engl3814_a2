@@ -14,7 +14,12 @@ This guide will show you how to convert a markdown file, file.md, to a word file
 2. Remember where your word file is stored at.
 3. Use the `cd` command to navigate to your word file's parent directory.
    > If your file is stored at /home/user/Documents/file.docx an example command would be `cd /home/user/Documents/`
-   > **NOTE:** If you are not sure you are in the right directory type `ls` and check if the file name is listed, if is you are in the correct directory.
+   > **NOTE:** If you are not sure you are in the right directory type `ls` and check if the file name is listed, if is you are in the correct directory. Look below at the image and notice that my document `test.docx` is in my current directory.
+<figure>
+<img src="images/ls.png" alt="Picture of a ls with a .docx file listed">
+<figcaption>Figure 1: Your ls output should be similar to this but with your file in it instead.</figcaption>
+</figure>
+   
 4. Run the following command, but make sure to replace the paths that start with `test` with your word file name.
    ``
    > **NOTE:** If your word file does not contain images `--extract-media=images` is not necessary
