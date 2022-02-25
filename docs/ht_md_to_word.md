@@ -6,11 +6,11 @@ This guide will show you how to convert a markdown file, file.md, to a word file
 
 - A markdown file
 - Pandoc installed
-- Opened terminal
 
 ## Steps
 
 1. Open a terminal.
+   > **NOTE:** For an example of a terminal please check out the [Welcome Page](welcome.md).
 2. Remember where your word file is stored at.
 3. Use the `cd` command to navigate to your word file's parent directory.
    > If your file is stored at /home/user/Documents/file.docx an example command would be `cd /home/user/Documents/`
@@ -21,10 +21,8 @@ This guide will show you how to convert a markdown file, file.md, to a word file
    > **NOTE:** If there is output please read the message and correct the mistakes, most likely you have not specified a valid path to a word file.
 <figure>
 <img src="images/pandoc_markdown_to_word.png" alt="Picture of a successful Pandoc execution">
-<figcaption>Figure 1: Your pandoc command and output should look similar to this.</figcaption>
+<figcaption>Figure 1: Your Pandoc command and output should look similar to this.</figcaption>
 </figure>
-
-
 
 Congratulations you have converted a markdown file to a word file.  Now that your content is converted you should certainly ensure that it was converted correctly.
 

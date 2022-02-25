@@ -20,7 +20,7 @@ This guide will show you how to convert a word file, file.docx, to a Markdown fi
    > **NOTE:** If there is output please read the message and correct the mistakes, most likely you have not specified a valid path to a word file.
 <figure>
 <img src="images/pandoc_word_to_markdown.png" alt="Picture of a successful Pandoc execution">
-<figcaption>Figure 1: Your pandoc command and output should look similar to this.</figcaption>
+<figcaption>Figure 1: Your Pandoc command and output should look similar to this.</figcaption>
 </figure>
 
 Congratulations you have converted a word file to a Markdown file.  Now that your content is convert ensure the integrity of it before publishing or peer review.
