@@ -9,9 +9,16 @@ This guide will show you how to install Pandoc on a number of Unix variants incl
 
 ## General Steps 
 
-1. Open up a terminal and get the administrative privileges.
-   > **NOTE**: If you are using Linux you can just prefix your installation command with `sudo`, for example: `sudo package install pandoc`
-2. Follow the steps below that are for your specific type of machine.
+1. Open a terminal.
+   > **NOTE:** For an example of a terminal please check out the [Welcome Page](welcome.md).
+2. Get the administrative privileges, skip this if the NOTE applies to you.
+   *SKIP* If have proper privileges for `sudo` you can just prefix your installation command with `sudo`, for example: `sudo INSTALL_COMMAND`
+3. Follow the steps below that are for your specific type of version of Unix/Linux, example command below.
+
+<figure>
+<img src="images/dnf_install_pandoc.png" alt="Picture of command to install Pandoc">
+<figcaption>Figure 1: This is an example installation on Fedora.</figcaption>
+</figure>
 
 ### Arch Linux Steps
 

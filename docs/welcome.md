@@ -6,6 +6,9 @@ There is a complete lack of support for free and open source technology on campu
 
 A terminal is going to be needed not only to run Pandoc, but also to install it.  This is a common tool on Linux and less common on MacOS, however, I am assuming since you are CS students that you are familiar with getting a terminal open, if not below is an example of a Terminal on Fedora Linux.
 
-![](images/terminal.png)
+<figure>
+<img src="images/terminal.png" alt="Picture of a terminal">
+<figcaption>Figure 1: This is what a terminal could look like.</figcaption>
+</figure>
 
 {% include footer.md %}
