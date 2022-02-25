@@ -19,9 +19,7 @@ This guide will show you how to convert a markdown file, file.md, to a word file
    > <img src="images/ls.png" alt="Picture of a ls with a .docx file listed">
    > <figcaption>Figure 1: Your ls output should be similar to this but with your file in it instead.</figcaption>
    > </figure>
-   
 4. Run the following command, but make sure to replace the paths that start with `test` with your word file name.
-   ``
    > **NOTE:** If your word file does not contain images `--extract-media=images` is not necessary
    > **NOTE:** If there is output please read the message and correct the mistakes, most likely you have not specified a valid path to a word file.
 <figure>
