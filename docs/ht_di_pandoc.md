@@ -14,6 +14,7 @@ This guide will show you how to install Pandoc on a number of Unix variants incl
 2. Get the administrative privileges, skip this if the NOTE applies to you.
    *SKIP* If have proper privileges for `sudo` you can just prefix your installation command with `sudo`, for example: `sudo INSTALL_COMMAND`
 3. Follow the steps below that are for your specific type of version of Unix/Linux, example command below.
+   > **NOTE:** Because of size constraints the command was cut out of the image meaning my screen is not large enough, the command executed was `sudo dnf install pandoc`
 
 <figure>
 <img src="images/dnf_install_pandoc.png" alt="Picture of command to install Pandoc">
